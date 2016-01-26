@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     android:background="#ffffff"
+     >
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/aa_nagation10"
+        android:id="@+id/nagation_relative"
+        >
+        
+        <Button 
+            android:layout_height="30dp"
+            android:layout_width="30dp"
+            android:background="@drawable/selector_a1_bar1"
+            android:layout_alignParentLeft="true"
+             android:layout_centerVertical="true"
+             android:layout_marginLeft="10dp"
+             android:onClick="searchAction"
+            />
+         <Button 
+            android:layout_height="30dp"
+            android:layout_width="30dp"
+            android:background="@drawable/selector_a2_bar2"
+            android:layout_alignParentRight="true"
+             android:layout_centerVertical="true"
+             android:layout_marginRight="10dp"
+            />
+         
+         <TextView 
+             android:id="@+id/device_nagation_tv1"
+              android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/nagation_title_5"
+            android:textColor="#2A983E"
+            android:layout_centerInParent="true"
+            android:textSize="@dimen/sys_font_navigation"
+             
+             />
+        
+    </RelativeLayout>
+    
+    <ListView 
+        android:id="@+id/device_listview_2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="blocksDescendants"
+        ></ListView>
+
+</LinearLayout>

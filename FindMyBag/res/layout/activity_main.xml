@@ -1,0 +1,156 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/main_container"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#262626"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/main_tabbar1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp" 
+            android:onClick="tabbarClick"
+            android:tag="1"
+            >
+
+            <ImageView
+                android:id="@+id/main_tabbar1_img"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/a5_tabbar5" />
+
+            <TextView
+                android:id="@+id/main_tabbar1_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:singleLine="true"
+                android:text="@string/tabbar_list_1"
+                  android:textSize="@dimen/sys_font_tab"
+                android:textColor="@color/sys_green_color" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/main_tabbar2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp" 
+              android:onClick="tabbarClick"
+            android:tag="2"
+            
+            >
+
+            <ImageView
+                android:id="@+id/main_tabbar2_img"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/a2_tabbar2" />
+
+            <TextView
+                android:id="@+id/main_tabbar2_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:singleLine="true"
+                android:text="@string/tabbar_camera_2"
+                  android:textSize="@dimen/sys_font_tab"
+                android:textColor="@color/sys_gray_color" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/main_tabbar3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp" 
+              android:onClick="tabbarClick"
+            android:tag="3"
+            
+            >
+
+            <ImageView
+                android:id="@+id/main_tabbar3_img"
+               android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/a3_tabbar3" />
+
+            <TextView
+                android:id="@+id/main_tabbar3_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:singleLine="true"
+                android:text="@string/tabbar_location_3"
+                android:textSize="@dimen/sys_font_tab"
+                android:textColor="@color/sys_gray_color" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/main_tabbar4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp" 
+            
+              android:onClick="tabbarClick"
+            android:tag="4"
+            
+            >
+
+            <ImageView
+                android:id="@+id/main_tabbar4_img"
+                  android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/a4_tabbar4" />
+
+            <TextView
+                android:id="@+id/main_tabbar4_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:singleLine="true"
+                android:text="@string/tabbar_settings_4"
+                 android:textSize="@dimen/sys_font_tab"
+                android:textColor="@color/sys_gray_color"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

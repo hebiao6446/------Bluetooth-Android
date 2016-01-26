@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">Liste</string>
+    <string name="tabbar_camera_2">Arrête</string>
+    <string name="tabbar_location_3">De positionnement</string>
+    <string name="tabbar_settings_4">Ensemble</string>
+    <string name="nagation_title_5">La liste de dispositifs</string>
+    <string name="nagation_title_6">Arrête l\'alarme</string>
+    <string name="nagation_title_7">De positionnement</string>
+    <string name="nagation_title_8">Ensemble</string>
+    <string name="cell_title_9">Ne pas déranger</string>
+    <string name="cell_title_10">APP Mot de passe</string>
+    <string name="cell_title_11">Commutation de langue</string>
+    <string name="cell_title_12">La carte de commutation</string>
+    <string name="cell_title_13">Version</string>
+    <string name="cell_title_14">Est fermée</string>
+    <string name="cell_title_14_a">Est ouverte</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">Sélection de la langue</string>
+    <string name="nagation_title_17">Choisir la carte</string>
+    <string name="cell_title_18">Baidu Carte</string>
+    <string name="cell_title_19">Apple Carte</string>
+    <string name="nagation_title_20">La perte de l\'histoire</string>
+    <string name="nagation_title_21">Liste de positionnement</string>
+    <string name="cell_text_22">Supprimer</string>
+    <string name="cell_title_23">Ouvre le mot de passe</string>
+    <string name="cell_title_24">Est fermé, le mot de passe</string>
+    <string name="cell_title_25">Changer le mot de passe</string>
+    <string name="nagation_title_26">Le mot de passe</string>
+    <string name="text_string_27">Saisissez le mot de passe</string>
+    <string name="text_string_28">Plus d\'une fois</string>
+    <string name="text_string_29">Saisissez l\'ancien mot de passe</string>
+    <string name="text_string_30">Deux fois le même mot de passe pas, s\'il vous plaît.</string>
+    <string name="text_string_31">Erreur de mot de passe</string>
+    <string name="text_string_32">Connexion</string>
+    <string name="text_string_33">Est connecté</string>
+    <string name="text_string_34">Non connecté</string>
+    <string name="nagation_title_35">Le logiciel</string>
+    <string name="cell_title_36">perdu</string>
+    <string name="cell_title_37">Rechercher</string>
+    <string name="cell_title_38">Déconnecter</string>
+    <string name="cell_title_39">Dispositif d\'alarme</string>
+    <string name="cell_title_40">De la lumière</string>
+    <string name="cell_title_41">Téléphone d\'alarme</string>
+    <string name="cell_title_42">Sonnerie</string>
+    <string name="actionsheet_txt_43">Veuillez choisir</string>
+    <string name="actionsheet_txt_44">Annuler</string>
+    <string name="actionsheet_txt_45">De la caméra</string>
+    <string name="actionsheet_txt_46">Sélection de photos</string>
+    <string name="res_name_47">Les oiseaux</string>
+    <string name="res_name_48">La voiture de voix</string>
+    <string name="res_name_49">Le chat miaule</string>
+    <string name="res_name_50">La voix d\'appel de conversation</string>
+    <string name="res_name_51">Le chien aboie</string>
+    <string name="res_name_52">Le son de l\'alarme d\'incendie</string>
+    <string name="res_name_53">La musique</string>
+    <string name="res_name_54">Radar</string>
+    <string name="res_name_55">Trompettes</string>
+    <string name="res_name_56">Siffler</string>
+    <string name="res_name_57">Alarme</string>
+
+</resources>

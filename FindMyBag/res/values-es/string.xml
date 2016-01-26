@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">La lista de</string>
+    <string name="tabbar_camera_2">Deja de alarma</string>
+    <string name="tabbar_location_3">El posicionamiento</string>
+    <string name="tabbar_settings_4">Siempre</string>
+    <string name="nagation_title_5">La lista de equipos</string>
+    <string name="nagation_title_6">Deja de alarma</string>
+    <string name="nagation_title_7">El posicionamiento</string>
+    <string name="nagation_title_8">Siempre</string>
+    <string name="cell_title_9">No molestar</string>
+    <string name="cell_title_10">APP La contraseña</string>
+    <string name="cell_title_11">Cambiar de idioma</string>
+    <string name="cell_title_12">Mapa de conmutación</string>
+    <string name="cell_title_13">La versión</string>
+    <string name="cell_title_14">Ha cerrado</string>
+    <string name="cell_title_14_a">Se abre la</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">La elección de la lengua</string>
+    <string name="nagation_title_17">Seleccione el mapa</string>
+    <string name="cell_title_18">Mapa de Baidu</string>
+    <string name="cell_title_19">Mapa de Apple</string>
+    <string name="nagation_title_20">La pérdida de la historia</string>
+    <string name="nagation_title_21">Ubicación de la lista</string>
+    <string name="cell_text_22">Borrar</string>
+    <string name="cell_title_23">Abrir la contraseña</string>
+    <string name="cell_title_24">El cierre de la contraseña</string>
+    <string name="cell_title_25">Cambiar la contraseña</string>
+    <string name="nagation_title_26">Establecer la contraseña</string>
+    <string name="text_string_27">Introduzca la contraseña</string>
+    <string name="text_string_28">Introduzca otra</string>
+    <string name="text_string_29">Escriba la contraseña anterior</string>
+    <string name="text_string_30">No es lo mismo dos veces la contraseña de entrada de nuevo, por favor.</string>
+    <string name="text_string_31">Error de contraseña</string>
+    <string name="text_string_32">La conexión</string>
+    <string name="text_string_33">Ha conectado</string>
+    <string name="text_string_34">Sin conexión</string>
+    <string name="nagation_title_35">Introducción</string>
+    <string name="cell_title_36">Evitar perder.</string>
+    <string name="cell_title_37">La búsqueda de</string>
+    <string name="cell_title_38">Desconectar</string>
+    <string name="cell_title_39">El equipo de alarma.</string>
+    <string name="cell_title_40">La luz</string>
+    <string name="cell_title_41">El teléfono de alarma</string>
+    <string name="cell_title_42">La campana</string>
+    <string name="actionsheet_txt_43">Por favor seleccione</string>
+    <string name="actionsheet_txt_44">Cancelar</string>
+    <string name="actionsheet_txt_45">Tomar fotos de la Cámara</string>
+    <string name="actionsheet_txt_46">La selección de fotos</string>
+    <string name="res_name_47">El canto de los pájaros</string>
+    <string name="res_name_48">El ruido de los coches</string>
+    <string name="res_name_49">El gato</string>
+    <string name="res_name_50">Charla de llamadas</string>
+    <string name="res_name_51">El ladrido de un perro</string>
+    <string name="res_name_52">El fuego</string>
+    <string name="res_name_53">La música</string>
+    <string name="res_name_54">El radar</string>
+    <string name="res_name_55">La trompeta</string>
+    <string name="res_name_56">Silbar</string>
+    <string name="res_name_57">La alarma</string>
+
+</resources>

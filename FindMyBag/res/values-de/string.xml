@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">Liste</string>
+    <string name="tabbar_camera_2">Stop</string>
+    <string name="tabbar_location_3">Positionierung</string>
+    <string name="tabbar_settings_4">Einstellungen</string>
+    <string name="nagation_title_5">Liste der Geräte</string>
+    <string name="nagation_title_6">Stop - ALARM</string>
+    <string name="nagation_title_7">Positionierung</string>
+    <string name="nagation_title_8">Einstellungen</string>
+    <string name="cell_title_9">Nicht stören.</string>
+    <string name="cell_title_10">APP Passwort</string>
+    <string name="cell_title_11">Sprache wechseln.</string>
+    <string name="cell_title_12">Die karte wechseln.</string>
+    <string name="cell_title_13">Version</string>
+    <string name="cell_title_14">Geschlossen</string>
+    <string name="cell_title_14_a">Eröffnet</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">Die Wahl der Sprache</string>
+    <string name="nagation_title_17">Wählen sie auf der karte</string>
+    <string name="cell_title_18">Baidu - karte</string>
+    <string name="cell_title_19">Apple Maps</string>
+    <string name="nagation_title_20">Verlorene Geschichte</string>
+    <string name="nagation_title_21">Position der liste</string>
+    <string name="cell_text_22">Löschen</string>
+    <string name="cell_title_23">Offene passwort</string>
+    <string name="cell_title_24">Schalten sie DAS passwort</string>
+    <string name="cell_title_25">Passwort ändern</string>
+    <string name="nagation_title_26">Das passwort</string>
+    <string name="text_string_27">Das passwort</string>
+    <string name="text_string_28">Wieder einmal eingegeben</string>
+    <string name="text_string_29">Das alte passwort</string>
+    <string name="text_string_30">Das passwort zweimal eingeben nicht so, bitte.</string>
+    <string name="text_string_31">Das passwort falsch</string>
+    <string name="text_string_32">verbunden</string>
+    <string name="text_string_33">Verbunden ist</string>
+    <string name="text_string_34">Nicht verbunden</string>
+    <string name="nagation_title_35">Die</string>
+    <string name="cell_title_36">Anti - VerLoren</string>
+    <string name="cell_title_37">Auf der suche nach</string>
+    <string name="cell_title_38">Trennen</string>
+    <string name="cell_title_39">Geräte ALARM.</string>
+    <string name="cell_title_40">Licht</string>
+    <string name="cell_title_41">HANDY - ALARM</string>
+    <string name="cell_title_42">Die glocke</string>
+    <string name="actionsheet_txt_43">Bitte wählen SIE</string>
+    <string name="actionsheet_txt_44">Abgesagt</string>
+    <string name="actionsheet_txt_45">Fotos von der Kamera</string>
+    <string name="actionsheet_txt_46">Auswahl von Fotos</string>
+    <string name="res_name_47">Vögel zwitschern</string>
+    <string name="res_name_48">Der Lärm der autos</string>
+    <string name="res_name_49">Der Schrei einer Katze.</string>
+    <string name="res_name_50">Chat - RUF</string>
+    <string name="res_name_51">Das bellen der Hunde</string>
+    <string name="res_name_52">FeUer</string>
+    <string name="res_name_53">Musik</string>
+    <string name="res_name_54">Radar</string>
+    <string name="res_name_55">Trompete</string>
+    <string name="res_name_56">Pfeifen</string>
+    <string name="res_name_57">ALARM</string>
+
+</resources>

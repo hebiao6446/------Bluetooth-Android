@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">List</string>
+    <string name="tabbar_camera_2">Stop</string>
+    <string name="tabbar_location_3">Location</string>
+    <string name="tabbar_settings_4">Settings</string>
+    <string name="nagation_title_5">List</string>
+    <string name="nagation_title_6">Stop</string>
+    <string name="nagation_title_7">Location</string>
+    <string name="nagation_title_8">Settings</string>
+    <string name="cell_title_9">Do not remind</string>
+    <string name="cell_title_10">APP Password</string>
+    <string name="cell_title_11">Language switching</string>
+    <string name="cell_title_12">Map switching</string>
+    <string name="cell_title_13">Version</string>
+    <string name="cell_title_14">Closed</string>
+    <string name="cell_title_14_a">Opened</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">Select language</string>
+    <string name="nagation_title_17">Select map</string>
+    <string name="cell_title_18">Baidu map</string>
+    <string name="cell_title_19">Apple map</string>
+    <string name="nagation_title_20">Lost list</string>
+    <string name="nagation_title_21">Locating list</string>
+    <string name="cell_text_22">Delete</string>
+    <string name="cell_title_23">Open password</string>
+    <string name="cell_title_24">Close password</string>
+    <string name="cell_title_25">Change password</string>
+    <string name="nagation_title_26">Set password</string>
+    <string name="text_string_27">Enter password</string>
+    <string name="text_string_28">Enter one more time</string>
+    <string name="text_string_29">Enter old password</string>
+    <string name="text_string_30">Two times the password is not the same, please re-enter</string>
+    <string name="text_string_31">Password error</string>
+    <string name="text_string_32">Connect</string>
+    <string name="text_string_33">Connected</string>
+    <string name="text_string_34">unconnected</string>
+    <string name="nagation_title_35">Introduction</string>
+    <string name="cell_title_36">Anti lost</string>
+    <string name="cell_title_37">Searching</string>
+    <string name="cell_title_38">Disconnect connection</string>
+    <string name="cell_title_39">Equipment alarm</string>
+    <string name="cell_title_40">Light</string>
+    <string name="cell_title_41">Phone alarm</string>
+    <string name="cell_title_42">Ring</string>
+    <string name="actionsheet_txt_43">Please choose</string>
+    <string name="actionsheet_txt_44">Cancel</string>
+    <string name="actionsheet_txt_45">Take photos from the camera</string>
+    <string name="actionsheet_txt_46">Select from the photos</string>
+    <string name="res_name_47">Bird</string>
+    <string name="res_name_48">Car</string>
+    <string name="res_name_49">Cat</string>
+    <string name="res_name_50">Chat-call</string>
+    <string name="res_name_51">Dog</string>
+    <string name="res_name_52">Fire</string>
+    <string name="res_name_53">Music</string>
+    <string name="res_name_54">Radar</string>
+    <string name="res_name_55">Trumpet</string>
+    <string name="res_name_56">Whistle</string>
+    <string name="res_name_57">Alarm</string>
+
+</resources>

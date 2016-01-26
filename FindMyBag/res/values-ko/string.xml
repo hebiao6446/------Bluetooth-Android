@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">목록</string>
+    <string name="tabbar_camera_2">정지</string>
+    <string name="tabbar_location_3">위치</string>
+    <string name="tabbar_settings_4">설치</string>
+    <string name="nagation_title_5">장치 목록</string>
+    <string name="nagation_title_6">정지 신고</string>
+    <string name="nagation_title_7">위치</string>
+    <string name="nagation_title_8">설치</string>
+    <string name="cell_title_9">귀찮게 면하다</string>
+    <string name="cell_title_10">APP비밀번호</string>
+    <string name="cell_title_11">언어 전환</string>
+    <string name="cell_title_12">지도 전환</string>
+    <string name="cell_title_13">버전</string>
+    <string name="cell_title_14">닫힌</string>
+    <string name="cell_title_14_a">켜졌습니다</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">언어 선택</string>
+    <string name="nagation_title_17">선택 지도</string>
+    <string name="cell_title_18">바 이두 지도</string>
+    <string name="cell_title_19">애플 지도</string>
+    <string name="nagation_title_20">분실하다 역사</string>
+    <string name="nagation_title_21">위치 목록</string>
+    <string name="cell_text_22">삭제</string>
+    <string name="cell_title_23">열 비밀번호</string>
+    <string name="cell_title_24">종료 코드</string>
+    <string name="cell_title_25">암호 변경</string>
+    <string name="nagation_title_26">비밀번호 설정</string>
+    <string name="text_string_27">비밀번호 입력</string>
+    <string name="text_string_28">다시 한 번 입력</string>
+    <string name="text_string_29">옛 암호를 입력하십시오.</string>
+    <string name="text_string_30">두 번 비밀번호 똑같아. 다시 시도해 주십시오</string>
+    <string name="text_string_31">암호가 잘못되었습니다.</string>
+    <string name="text_string_32">연결</string>
+    <string name="text_string_33">연결됨</string>
+    <string name="text_string_34">연결 없는</string>
+    <string name="nagation_title_35">소개</string>
+    <string name="cell_title_36">잃어버린 막다</string>
+    <string name="cell_title_37">찾다</string>
+    <string name="cell_title_38">연결 끊기</string>
+    <string name="cell_title_39">장치 신고</string>
+    <string name="cell_title_40">조명</string>
+    <string name="cell_title_41">핸드폰 신고</string>
+    <string name="cell_title_42">종소리</string>
+    <string name="actionsheet_txt_43">선택하십시오.</string>
+    <string name="actionsheet_txt_44">취소</string>
+    <string name="actionsheet_txt_45">이 카메라 사진</string>
+    <string name="actionsheet_txt_46">사진 선택</string>
+    <string name="res_name_47">잘 우는 새</string>
+    <string name="res_name_48">차 소리가</string>
+    <string name="res_name_49">고양이</string>
+    <string name="res_name_50">대화 호출</string>
+    <string name="res_name_51">개가 짖다</string>
+    <string name="res_name_52">화재</string>
+    <string name="res_name_53">음악</string>
+    <string name="res_name_54">레이더</string>
+    <string name="res_name_55">트럼펫</string>
+    <string name="res_name_56">휘파람</string>
+    <string name="res_name_57">신고</string>
+
+</resources>

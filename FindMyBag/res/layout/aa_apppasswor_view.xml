@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cell_section_gray"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/a5_nagation_relative_aaappasword_1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/aa_nagation10" >
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/af_back15"
+            android:onClick="backAction" />
+
+        <TextView
+            android:id="@+id/a5_device_detail_nagation_tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/cell_title_10"
+            android:textColor="#2A983E"
+            android:textSize="@dimen/sys_font_navigation" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/cell_section_gray" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_device_list3"
+        android:onClick="clickAction"
+        android:tag="1" >
+
+        <TextView
+            android:id="@+id/aa_apppasword_txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:text="@string/cell_title_24"
+            android:textColor="@color/sys_gray_color"
+            android:textSize="@dimen/cell_font_commen" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/lightgray_color" />
+
+    <RelativeLayout
+        android:id="@+id/aa_apppasword_cell_2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_device_list3"
+        android:onClick="clickAction"
+        android:tag="2" >
+
+        <TextView
+              android:id="@+id/aa_apppasword_txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:text="@string/cell_title_25"
+            android:textColor="@color/sys_gray_color"
+            android:textSize="@dimen/cell_font_commen" />
+    </RelativeLayout>
+
+</LinearLayout>

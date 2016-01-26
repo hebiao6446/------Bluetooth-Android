@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     android:background="#ffffff"
+     >
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/aa_nagation10"
+        android:id="@+id/nagation_relative"
+        >
+        
+        <Button 
+            android:layout_height="30dp"
+            android:layout_width="30dp"
+            android:background="@drawable/am_bar_23"
+            android:layout_alignParentLeft="true"
+             android:layout_centerVertical="true"
+             android:layout_marginLeft="10dp"
+             android:onClick="leftAction"
+            />
+         <Button 
+            android:layout_height="30dp"
+            android:layout_width="30dp"
+            android:background="@drawable/an_bar_24"
+            android:layout_alignParentRight="true"
+             android:layout_centerVertical="true"
+             android:layout_marginRight="10dp"
+             android:onClick="rightAction"
+            />
+         
+         <TextView 
+             android:id="@+id/device_nagation_tv1"
+              android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/tabbar_location_3"
+            android:textColor="@color/sys_green_color"
+            android:layout_centerInParent="true"
+            android:textSize="@dimen/sys_font_navigation"
+             
+             />
+        
+    </RelativeLayout>
+    
+    
+     <com.baidu.mapapi.map.MapView
+        android:id="@+id/a3_on_location_baidumap"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true" />
+    
+
+</LinearLayout>

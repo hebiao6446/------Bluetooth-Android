@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">A lista</string>
+    <string name="tabbar_camera_2">Parar</string>
+    <string name="tabbar_location_3">Localização de</string>
+    <string name="tabbar_settings_4">Set</string>
+    <string name="nagation_title_5">A lista de equipamentos</string>
+    <string name="nagation_title_6">Para parar o alarme</string>
+    <string name="nagation_title_7">Localização de</string>
+    <string name="nagation_title_8">Set</string>
+    <string name="cell_title_9">Não perturbe</string>
+    <string name="cell_title_10">APP A senha</string>
+    <string name="cell_title_11">Mudar idioma</string>
+    <string name="cell_title_12">Mapa de comutação</string>
+    <string name="cell_title_13">A versão</string>
+    <string name="cell_title_14">Fechado</string>
+    <string name="cell_title_14_a">Já a Abertura</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">Escolha a língua</string>
+    <string name="nagation_title_17">Selecione no mapa</string>
+    <string name="cell_title_18">Baidu mapa de</string>
+    <string name="cell_title_19">Apple mapa de</string>
+    <string name="nagation_title_20">A história de lost</string>
+    <string name="nagation_title_21">Lista de localização</string>
+    <string name="cell_text_22">Del</string>
+    <string name="cell_title_23">Senha para abrir</string>
+    <string name="cell_title_24">Para apagar a senha</string>
+    <string name="cell_title_25">Para alterar a senha</string>
+    <string name="nagation_title_26">A senha</string>
+    <string name="text_string_27">Digite a senha</string>
+    <string name="text_string_28">Mais UMA Vez Entrar</string>
+    <string name="text_string_29">Digite a senha Antiga</string>
+    <string name="text_string_30">Duas vezes a senha é diferente, por favor introduza</string>
+    <string name="text_string_31">Senha errada</string>
+    <string name="text_string_32">A conexão</string>
+    <string name="text_string_33">Já a conexão</string>
+    <string name="text_string_34">Não está Conectado</string>
+    <string name="nagation_title_35">Introdução</string>
+    <string name="cell_title_36">Anti - lost</string>
+    <string name="cell_title_37">EM Busca de</string>
+    <string name="cell_title_38">Desconectar</string>
+    <string name="cell_title_39">Equipamento de alarme.</string>
+    <string name="cell_title_40">A Luz</string>
+    <string name="cell_title_41">Telefone móvel de alarme</string>
+    <string name="cell_title_42">Ringtones</string>
+    <string name="actionsheet_txt_43">Por favor, escolha</string>
+    <string name="actionsheet_txt_44">Cancelar</string>
+    <string name="actionsheet_txt_45">A câmera Tira fotos.</string>
+    <string name="actionsheet_txt_46">Escolha a partir de fotos</string>
+    <string name="res_name_47">OS pássaros</string>
+    <string name="res_name_48">Carro de som</string>
+    <string name="res_name_49">Gato</string>
+    <string name="res_name_50">Chamada de bate - Papo</string>
+    <string name="res_name_51">Late</string>
+    <string name="res_name_52">O alarme de incêndio</string>
+    <string name="res_name_53">A música</string>
+    <string name="res_name_54">Radar</string>
+    <string name="res_name_55">Trompete</string>
+    <string name="res_name_56">A assobiar</string>
+    <string name="res_name_57">Alarme</string>
+
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cell_section_gray"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/a5_nagation_relative"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/aa_nagation10" >
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/af_back15"
+            android:onClick="backAction" />
+
+        <TextView
+            android:id="@+id/a5_device_detail_nagation_tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="选择地图"
+            android:textColor="#2A983E"
+            android:textSize="@dimen/sys_font_navigation" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/cell_section_gray" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_device_list3"
+        android:onClick="clickAction"
+        android:tag="1" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:text="@string/cell_title_18"
+            android:textColor="@color/sys_gray_color"
+            android:textSize="@dimen/cell_font_commen" />
+        
+        <ImageView 
+            android:id="@+id/ac_map_switch_map1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+              android:layout_marginRight="15dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentRight="true"
+             android:src="@drawable/ao_ok_25"
+            
+            />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/lightgray_color" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_device_list3"
+        android:onClick="clickAction"
+        android:tag="2" >
+
+        <TextView
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:text="@string/cell_title_19"
+            android:textColor="@color/sys_gray_color"
+            android:textSize="@dimen/cell_font_commen" />
+        
+           <ImageView 
+               android:id="@+id/ac_map_switch_map2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+              android:layout_marginRight="15dp"
+             android:layout_centerVertical="true"
+             android:layout_alignParentRight="true"
+             android:src="@drawable/ao_ok_25"
+             android:visibility="gone"
+            
+            />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tabbar_list_1">قائمة</string>
+    <string name="tabbar_camera_2">توقف</string>
+    <string name="tabbar_location_3">المواقع</string>
+    <string name="tabbar_settings_4">إعدادات</string>
+    <string name="nagation_title_5">قائمة المعدات</string>
+    <string name="nagation_title_6">إيقاف التنبيه</string>
+    <string name="nagation_title_7">المواقع</string>
+    <string name="nagation_title_8">إعدادات</string>
+    <string name="cell_title_9">لا تخل </string>
+    <string name="cell_title_10">APP كلمة السر</string>
+    <string name="cell_title_11">تبديل اللغة</string>
+    <string name="cell_title_12">تبديل خريطة</string>
+    <string name="cell_title_13">نسخة</string>
+    <string name="cell_title_14">تم إغلاق</string>
+    <string name="cell_title_14_a">وقد  فتح</string>
+    <string name="cell_title_15">V1.2.1</string>
+    <string name="nagation_title_16">اختيار اللغة</string>
+    <string name="nagation_title_17">اختيار  الخريطة</string>
+    <string name="cell_title_18">خريطة بايدو</string>
+    <string name="cell_title_19">شركة أبل  الخريطة</string>
+    <string name="nagation_title_20">اي  تاريخ</string>
+    <string name="nagation_title_21">قائمة  المواقع</string>
+    <string name="cell_text_22">حذف</string>
+    <string name="cell_title_23">فتح  كلمة السر</string>
+    <string name="cell_title_24">إغلاق  كلمة السر</string>
+    <string name="cell_title_25">تغيير كلمة السر</string>
+    <string name="nagation_title_26">كلمة السر</string>
+    <string name="text_string_27">أدخل كلمة السر</string>
+    <string name="text_string_28">الدخول مرة أخرى</string>
+    <string name="text_string_29">أدخل كلمة المرور القديمة</string>
+    <string name="text_string_30">كلمة السر مرتين  مختلفة،  الرجاء إعادة إدخال</string>
+    <string name="text_string_31">كلمة السر خاطئة</string>
+    <string name="text_string_32">ربط</string>
+    <string name="text_string_33">متصل</string>
+    <string name="text_string_34">غير متصل</string>
+    <string name="nagation_title_35">عرض</string>
+    <string name="cell_title_36">مكافحة فقدان</string>
+    <string name="cell_title_37">تبحث عن</string>
+    <string name="cell_title_38">قطع الاتصال</string>
+    <string name="cell_title_39">جهاز  إنذار</string>
+    <string name="cell_title_40">أضواء</string>
+    <string name="cell_title_41">الهاتف المحمول إنذار</string>
+    <string name="cell_title_42">النغمات</string>
+    <string name="actionsheet_txt_43">الرجاء اختيار</string>
+    <string name="actionsheet_txt_44">إلغاء</string>
+    <string name="actionsheet_txt_45">من  الكاميرا</string>
+    <string name="actionsheet_txt_46">اختيار  من  الصور</string>
+    <string name="res_name_47">الطيور</string>
+    <string name="res_name_48">سيارة الصوت</string>
+    <string name="res_name_49">المواء</string>
+    <string name="res_name_50">دردشة  دعوة</string>
+    <string name="res_name_51">الكلب ينبح</string>
+    <string name="res_name_52">إنذار الحريق</string>
+    <string name="res_name_53"> الموسيقى</string>
+    <string name="res_name_54">الرادار</string>
+    <string name="res_name_55">البوق</string>
+    <string name="res_name_56">صفير</string>
+    <string name="res_name_57">إنذار</string>
+
+</resources>

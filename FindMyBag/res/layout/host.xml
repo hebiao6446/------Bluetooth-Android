@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <RelativeLayout 
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        
+        >     
+        <FrameLayout 
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                >
+	    </FrameLayout> 
+	      
+	      <TabWidget      
+             android:id="@android:id/tabs" 
+            android:layout_width="fill_parent" 
+            android:layout_height="fill_parent" 
+            android:visibility="gone"  
+            />   
+            
+	      
+	      <RadioGroup 
+            android:id="@+id/main_radio" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:background="#262626" 
+            android:gravity="center_vertical" 
+            android:orientation="horizontal" 
+            android:layout_alignParentBottom="true" > 
+   
+            <RadioButton 
+                android:id="@+id/tab_1" 
+                android:checked="true" 
+                 style="@style/main_tab_bottom" 
+                android:drawableTop="@drawable/tab_img_1" 
+                 android:textColor="@drawable/tab_color"
+                android:text="@string/tabbar_list_1" /> 
+   
+            <RadioButton 
+                android:id="@+id/tab_2" 
+                android:checked="false" 
+                 style="@style/main_tab_bottom" 
+                      android:textColor="@drawable/tab_color"
+                android:drawableTop="@drawable/tab_img_2" 
+                android:text="@string/tabbar_camera_2" /> 
+   
+            <RadioButton 
+                android:id="@+id/tab_3" 
+                 style="@style/main_tab_bottom" 
+                android:drawableTop="@drawable/tab_img_3" 
+                    android:textColor="@drawable/tab_color"
+                android:text="@string/tabbar_location_3" /> 
+   
+            <RadioButton 
+                android:id="@+id/tab_4" 
+                 style="@style/main_tab_bottom" 
+                 android:textColor="@drawable/tab_color"
+                android:drawableTop="@drawable/tab_img_4" 
+                android:text="@string/tabbar_settings_4" /> 
+        </RadioGroup> 
+	           
+        </RelativeLayout>
+</TabHost>

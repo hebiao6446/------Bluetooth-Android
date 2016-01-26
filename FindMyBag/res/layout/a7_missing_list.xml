@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/a7_nagation_relative"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/aa_nagation10" >
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/af_back15"
+            android:onClick="backAction" />
+
+        <TextView
+            android:id="@+id/a7_device_nagation_tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/nagation_title_20"
+            android:textColor="#2A983E"
+            android:textSize="@dimen/sys_font_navigation" />
+    </RelativeLayout>
+
+    <ExpandableListView
+        android:id="@+id/a7_missing_listview_2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </ExpandableListView>
+
+</LinearLayout>
